@@ -1,0 +1,7 @@
+{
+  "name": "common-component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
